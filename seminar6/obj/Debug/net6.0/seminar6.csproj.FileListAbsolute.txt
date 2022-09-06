@@ -1,0 +1,15 @@
+C:\Users\shubi\Desktop\home_workC#\seminar6\bin\Debug\net6.0\seminar6.exe
+C:\Users\shubi\Desktop\home_workC#\seminar6\bin\Debug\net6.0\seminar6.deps.json
+C:\Users\shubi\Desktop\home_workC#\seminar6\bin\Debug\net6.0\seminar6.runtimeconfig.json
+C:\Users\shubi\Desktop\home_workC#\seminar6\bin\Debug\net6.0\seminar6.dll
+C:\Users\shubi\Desktop\home_workC#\seminar6\bin\Debug\net6.0\seminar6.pdb
+C:\Users\shubi\Desktop\home_workC#\seminar6\obj\Debug\net6.0\seminar6.csproj.AssemblyReference.cache
+C:\Users\shubi\Desktop\home_workC#\seminar6\obj\Debug\net6.0\seminar6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubi\Desktop\home_workC#\seminar6\obj\Debug\net6.0\seminar6.AssemblyInfoInputs.cache
+C:\Users\shubi\Desktop\home_workC#\seminar6\obj\Debug\net6.0\seminar6.AssemblyInfo.cs
+C:\Users\shubi\Desktop\home_workC#\seminar6\obj\Debug\net6.0\seminar6.csproj.CoreCompileInputs.cache
+C:\Users\shubi\Desktop\home_workC#\seminar6\obj\Debug\net6.0\seminar6.dll
+C:\Users\shubi\Desktop\home_workC#\seminar6\obj\Debug\net6.0\refint\seminar6.dll
+C:\Users\shubi\Desktop\home_workC#\seminar6\obj\Debug\net6.0\seminar6.pdb
+C:\Users\shubi\Desktop\home_workC#\seminar6\obj\Debug\net6.0\seminar6.genruntimeconfig.cache
+C:\Users\shubi\Desktop\home_workC#\seminar6\obj\Debug\net6.0\ref\seminar6.dll
