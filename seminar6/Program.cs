@@ -9,9 +9,9 @@ Console.WriteLine("Больше нуля "+startProgram(enterNum)+" числа")
 int startProgram(int[] enterNum)
 {
    int result=0; 
-   for (int i=0;i<enterNum.Length;i++)
+   for (int i=0;i<enterNum.Length;)
       {
-         if (enterNum[i] > 0) {result+=1;} 
+         if (enterNum[i] > 0) {result+=1;}i++; 
       }
    return result;
 }
